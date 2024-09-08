@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/pinki-gupta-a2738a25a/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://medium.com/@pinkigupta0506" target="_blank"><img alt="" src="https://img.shields.io/badge/medium-000?style=for-the-badge&logo=MEDIUM&logoColor=4e5d94" style="vertical-align:center" /></a>
 <a href="" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
-<a href="piinkigupta0506@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=E4405F" style="vertical-align:center" /></a>
+<a href="pinkigupta0506@gmail.com" target="_blank"><img alt="" src="https://img.shields.io/badge/gmail-000?style=for-the-badge&logo=gmail&logoColor=E4405F" style="vertical-align:center" /></a>
 </p>
 
 
